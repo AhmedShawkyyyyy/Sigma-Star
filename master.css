@@ -812,7 +812,7 @@ nav .nav-right ul .nav-right5 a:hover {
   }
 
   .content4 {
-    height: 664px;
+    height: 754px;
     display: flex;
     flex-wrap: wrap;
     justify-content: flex-start;
@@ -828,7 +828,7 @@ nav .nav-right ul .nav-right5 a:hover {
     font-size: 10px;
   }
   .content5 {
-    height: 2150px;
+    height: 1757px;
   }
 
   .content5 .cards .card1 h4 a,
@@ -853,11 +853,28 @@ nav .nav-right ul .nav-right5 a:hover {
   /* .section-title h2 {
     left: 320px;
   } */
+  .content6 .header h2 span {
+    position: absolute;
+    /* top: -34px; */
+    left: 18%;
+    font-size: 31px;
+  }
 
   .content5 .section-title h2 span {
     position: absolute;
+    top: -6px;
+    left: 10%;
+    font-size: 38px;
+  }
+
+  .content5 .section-bottom h2 span {
+    font-size: 50px;
+    position: absolute;
     top: -34px;
-    left: 46%;
+    left: 23%;
+    color: rgb(240, 241, 243);
+    font-weight: bold;
+    font-size: 39px;
   }
   .content6 {
     font-size: 15px;
@@ -877,8 +894,9 @@ nav .nav-right ul .nav-right5 a:hover {
   }
   .content6 .header h2 span {
     position: absolute;
-    /* top: -34px; */
-    left: 40%;
+    top: -26px;
+    left: 14%;
+    font-size: 31px;
   }
   .content6 .body .card1 .info i,
   .content6 .body .card1 .email i,
