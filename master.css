@@ -850,14 +850,12 @@ nav .nav-right ul .nav-right5 a:hover {
     font-size: 14px;
     line-height: 31px;
   }
-  /* .section-title h2 {
-    left: 320px;
-  } */
+
   .content6 .header h2 span {
     position: absolute;
-    /* top: -34px; */
-    left: 18%;
-    font-size: 31px;
+    top: -25px;
+    left: 17%;
+    font-size: 28px;
   }
 
   .content5 .section-title h2 span {
@@ -891,6 +889,9 @@ nav .nav-right ul .nav-right5 a:hover {
   .content6 .body .card1 .phone h4,
   .content6 .body .card1 .adress h4 {
     font-size: 15px;
+  }
+  .content6 .header h2 {
+    font-size: 25px;
   }
   .content6 .header h2 span {
     position: absolute;
