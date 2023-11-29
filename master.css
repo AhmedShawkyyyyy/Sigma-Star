@@ -957,20 +957,20 @@ nav .nav-right ul .nav-right5 a:hover {
   .content6 .body .card1 .email i,
   .content6 .body .card1 .phone i,
   .content6 .body .card1 .adress i {
-    font-size: 20px;
+    font-size: 25px;
     text-align: center;
     color: #01b8dc;
     float: left;
-    margin-top: 23px;
-    margin-left: 20px;
-    /* width: 29px; */
-    /* height: -1px; */
+    margin-top: 10px;
+    margin-left: -20px;
     background-color: #fff;
     display: flex;
     justify-content: center;
     align-items: center;
     border-radius: 50px;
     transition: all 0.3s ease-in-out;
+    width: 3px;
+    height: 3px;
   }
   .content6 .body .card1 .info p,
   .content6 .body .card1 .email p,
