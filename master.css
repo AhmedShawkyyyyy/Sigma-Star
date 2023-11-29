@@ -417,10 +417,10 @@ nav .nav-right ul .nav-right5 a:hover {
 }
 
 .content6 .header h2 span {
-  font-size: 50px;
+  font-size: 45px;
   position: absolute;
   top: -34px;
-  left: 753px;
+  left: 600px;
   color: rgb(240, 241, 243);
   font-weight: bold;
 }
@@ -812,7 +812,7 @@ nav .nav-right ul .nav-right5 a:hover {
   }
 
   .content4 {
-    height: 754px;
+    height: 1350px;
     display: flex;
     flex-wrap: wrap;
     justify-content: flex-start;
@@ -825,7 +825,8 @@ nav .nav-right ul .nav-right5 a:hover {
     height: 90px;
   }
   .content4 .card2 p {
-    font-size: 10px;
+    font-size: 15px;
+    width: 100%;
   }
   .content5 {
     height: 1757px;
