@@ -235,7 +235,7 @@ nav .nav-right ul .nav-right5 a:hover {
 .content4 {
   background-color: white;
   width: 85%;
-  height: 430px;
+  height: 500px;
   margin: 40px auto;
   display: flex;
   flex-wrap: nowrap;
@@ -420,7 +420,7 @@ nav .nav-right ul .nav-right5 a:hover {
   font-size: 50px;
   position: absolute;
   top: -34px;
-  left: 587px;
+  left: 753px;
   color: rgb(240, 241, 243);
   font-weight: bold;
 }
@@ -875,14 +875,17 @@ nav .nav-right ul .nav-right5 a:hover {
     font-size: 39px;
   }
   .content6 {
-    font-size: 15px;
+       font-size: 10px;
+   
   }
 
   .content6 .body .card1 {
     font-size: 10px;
+     width: 89%;
   }
   .content6 .header {
     padding-top: 10px;
+    
   }
   .content6 .body .card1 .info h4,
   .content6 .body .card1 .email h4,
@@ -892,6 +895,7 @@ nav .nav-right ul .nav-right5 a:hover {
   }
   .content6 .header h2 {
     font-size: 25px;
+    width:87%
   }
   .content6 .header h2 span {
     position: absolute;
@@ -899,11 +903,22 @@ nav .nav-right ul .nav-right5 a:hover {
     left: 14%;
     font-size: 31px;
   }
+  .content6 .body {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    height: 946px;
+}
+
+
+     
   .content6 .body .card1 .info i,
   .content6 .body .card1 .email i,
   .content6 .body .card1 .phone i,
   .content6 .body .card1 .adress i .content7 {
-    height: 20px;
+    width: 100%;
+    height: 141px;
+    padding: 21px;
   }
   .content6 .body .card1 .info p,
   .content6 .body .card1 .email p,
