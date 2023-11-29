@@ -875,14 +875,17 @@ nav .nav-right ul .nav-right5 a:hover {
     font-size: 39px;
   }
   .content6 {
-    font-size: 15px;
+       font-size: 10px;
+   
   }
 
   .content6 .body .card1 {
     font-size: 10px;
+     width: 89%;
   }
   .content6 .header {
     padding-top: 10px;
+    
   }
   .content6 .body .card1 .info h4,
   .content6 .body .card1 .email h4,
