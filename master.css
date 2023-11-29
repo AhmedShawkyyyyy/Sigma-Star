@@ -911,7 +911,84 @@ nav .nav-right ul .nav-right5 a:hover {
   .content6 .body .card1 .adress p {
     font-size: 15px;
   }
+  .content6 .body .card1 {
+    width: 98%;
+  }
+  .content6 .body {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-items: center;
+    align-content: stretch;
+    height: 1448px;
+  }
+  .content6 .body .card2 {
+    width: 98%;
+  }
+  .content6 .body .card2 .row1 {
+    display: flex;
+    flex-wrap: wrap;
+    height: 100px;
+  }
+  .content6 .body .row1 .name {
+    width: 95%;
+  }
 
+  .content6 .body .row1 .email {
+    width: 95%;
+  }
+
+  .content6 .body .row1 {
+    padding-top: 6px;
+  }
+
+  .content6 .body .card1 .info i,
+  .content6 .body .card1 .email i,
+  .content6 .body .card1 .phone i,
+  .content6 .body .card1 .adress i {
+    font-size: 20px;
+    text-align: center;
+    color: #01b8dc;
+    float: left;
+    margin-top: 23px;
+    margin-left: 20px;
+    width: 29px;
+    height: -1px;
+    background-color: #fff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 50px;
+    transition: all 0.3s ease-in-out;
+  }
+  .content6 .body .card1 .info p,
+  .content6 .body .card1 .email p,
+  .content6 .body .card1 .phone p,
+  .content6 .body .card1 .adress p {
+    font-size: 10px;
+    width: 82%;
+  }
+  .content7 .footer {
+    border-top: 1px solid #d9dce2;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    font-size: 14px;
+    font-weight: bolder;
+    display: flex;
+    flex-wrap: wrap;
+    height: 332px;
+    flex-direction: row-reverse;
+    width: 100%;
+    align-items: flex-end;
+    align-content: space-around;
+  }
+
+  .content7 .copyright {
+    text-align: center;
+  }
+  .content7 .credits {
+    text-align: center;
+  }
   .content7 {
     height: 20px;
   }
