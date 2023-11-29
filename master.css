@@ -899,6 +899,15 @@ nav .nav-right ul .nav-right5 a:hover {
     left: 14%;
     font-size: 31px;
   }
+  .content6 .body {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    height: 946px;
+}
+
+
+     
   .content6 .body .card1 .info i,
   .content6 .body .card1 .email i,
   .content6 .body .card1 .phone i,
