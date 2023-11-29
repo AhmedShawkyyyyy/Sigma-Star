@@ -916,7 +916,9 @@ nav .nav-right ul .nav-right5 a:hover {
   .content6 .body .card1 .email i,
   .content6 .body .card1 .phone i,
   .content6 .body .card1 .adress i .content7 {
-    height: 20px;
+    width: 100%;
+    height: 141px;
+    padding: 21px;
   }
   .content6 .body .card1 .info p,
   .content6 .body .card1 .email p,
