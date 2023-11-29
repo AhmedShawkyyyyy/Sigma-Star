@@ -875,17 +875,15 @@ nav .nav-right ul .nav-right5 a:hover {
     font-size: 39px;
   }
   .content6 {
-       font-size: 10px;
-   
+    font-size: 10px;
   }
 
   .content6 .body .card1 {
     font-size: 10px;
-     width: 89%;
+    width: 89%;
   }
   .content6 .header {
     padding-top: 10px;
-    
   }
   .content6 .body .card1 .info h4,
   .content6 .body .card1 .email h4,
@@ -895,7 +893,7 @@ nav .nav-right ul .nav-right5 a:hover {
   }
   .content6 .header h2 {
     font-size: 25px;
-    width:87%
+    width: 87%;
   }
   .content6 .header h2 span {
     position: absolute;
@@ -908,10 +906,8 @@ nav .nav-right ul .nav-right5 a:hover {
     flex-wrap: wrap;
     justify-content: space-around;
     height: 946px;
-}
+  }
 
-
-     
   .content6 .body .card1 .info i,
   .content6 .body .card1 .email i,
   .content6 .body .card1 .phone i,
@@ -967,8 +963,8 @@ nav .nav-right ul .nav-right5 a:hover {
     float: left;
     margin-top: 23px;
     margin-left: 20px;
-    width: 29px;
-    height: -1px;
+    /* width: 29px; */
+    /* height: -1px; */
     background-color: #fff;
     display: flex;
     justify-content: center;
