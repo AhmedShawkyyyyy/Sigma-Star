@@ -1015,12 +1015,12 @@ nav .nav-right ul .nav-right5 a:hover {
   nav {
     display: flex;
     flex-wrap: nowrap;
-    width: 550px;
+    width: 100%;
     padding: 0px;
     position: absolute;
     right: 0px;
     left: 0px;
-    justify-content: center;
+    justify-content: space-between;
     align-items: center;
   }
 
